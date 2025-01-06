@@ -4737,12 +4737,14 @@ input[type="button"].btn-block {
 }
 
 .nav-link {
+  color: #495057;
   display: block;
   padding: 0.5rem 1rem;
 }
 
 .nav-link:hover,
 .nav-link:focus {
+  color: #495057;
   text-decoration: none;
 }
 
@@ -5260,12 +5262,12 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-brand {
-  color: #fff;
+  color: #495057;;
 }
 
 .navbar-dark .navbar-brand:hover,
 .navbar-dark .navbar-brand:focus {
-  color: #fff;
+  color: #495057;;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -5285,7 +5287,7 @@ input[type="button"].btn-block {
 .navbar-dark .navbar-nav .active>.nav-link,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .nav-link.active {
-  color: #fff;
+  color: #495057;;
 }
 
 .navbar-dark .navbar-toggler {
@@ -5302,12 +5304,12 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-text a {
-  color: #fff;
+  color: #495057;;
 }
 
 .navbar-dark .navbar-text a:hover,
 .navbar-dark .navbar-text a:focus {
-  color: #fff;
+  color: #495057;
 }
 
 .card {
@@ -11571,7 +11573,7 @@ h5,
 }
 
 .ftco-navbar-light .navbar-brand {
-  color: #ffffff;
+  color: #495057;
 }
 
 .ftco-navbar-light .navbar-brand:hover {
@@ -11596,7 +11598,7 @@ h5,
   padding-bottom: .9rem;
   padding-left: 20px;
   padding-right: 20px;
-  color: #ffffff;
+  color: #495057;
   font-weight: 600;
   opacity: 1 !important;
 }
@@ -11610,7 +11612,7 @@ h5,
     padding-left: 0;
     padding-right: 0;
     padding-bottom: 0;
-    color: #fff;
+    color: #495057;
   }
 }
 
@@ -11668,7 +11670,7 @@ h5,
 
 .ftco-navbar-light .navbar-nav>.nav-item.cta>a span {
   display: inline-block;
-  color: #fff;
+  color: #495057;
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item.cta>a:hover {
@@ -11693,7 +11695,7 @@ h5,
 
 .ftco-navbar-light .navbar-toggler {
   border: none;
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: #495057 !important;
   cursor: pointer;
   padding-right: 0;
   text-transform: uppercase;
@@ -11748,7 +11750,7 @@ h5,
 
 .ftco-navbar-light.scrolled .nav-item.cta>a span {
   display: inline-block;
-  color: #fff !important;
+  color: #495057 !important;
 }
 
 .ftco-navbar-light.scrolled .nav-item.cta.cta-colored span {
